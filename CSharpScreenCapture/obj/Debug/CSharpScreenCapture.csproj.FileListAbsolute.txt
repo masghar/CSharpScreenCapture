@@ -1,0 +1,8 @@
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\bin\Debug\CSharpScreenCapture.exe
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\bin\Debug\CSharpScreenCapture.pdb
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.csprojResolveAssemblyReference.cache
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.Form1.resources
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.Properties.Resources.resources
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.csproj.GenerateResource.Cache
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.exe
+D:\Projects\CSharpScreenCapture\CSharpScreenCapture\obj\Debug\CSharpScreenCapture.pdb
